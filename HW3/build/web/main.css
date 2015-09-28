@@ -32,7 +32,11 @@ hr{
     background-color: #95BE22;
     width: 500px;
 }
-
+#chart{
+    margin:0 auto; 
+    width: 80%;
+    align:center;
+}
 .box{
     width: 106px;
     height: 50px;
